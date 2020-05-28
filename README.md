@@ -1,4 +1,4 @@
-## Boruto-Junkies Downloader
+## Playvids Downloader
 
 **How to use**   
 Double click the exe and enter the url of the video you want to download.   
